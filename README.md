@@ -1,4 +1,4 @@
-# Lenovo-ThinkPad-X1-Carbon-6th-Hackintosh--X1C6-
+# Lenovo-ThinkPad-X1-Carbon-6th-Hackintosh--X1C6
 
 **Model: Lenovo ThinkPad X1 Carbon 6th**
 - **CPU:** QuadCore Intel Core i5-8250U, 3400 MHz (34 x 100)
