@@ -12,6 +12,9 @@
 - **SD Card Reader:** Realtek
 - **Disk Drive** SAMSUNG MZVLW256HEHP-000L7 (256 GB, PCI-E 3.0 x4)
 
+## Touchscreen:
+- https://www.youtube.com/watch?v=2dcBTnEYGY4
+
 ## ✅ Whats workin'
 * Graphics acceleration
 * All USB ports
