@@ -27,4 +27,11 @@
 * SD Card Reader
 
 ## ❌ Not workin'
-* Handoff, AirDrop and Apple Watch Unlock (until you use a Broadcom Wi-Fi card)
+* Handoff, AirDrop
+
+## Credits
+- [Apple](https://apple.com) for macOS.
+- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+- [Olarila](https://www.olarila.com/) For great guides and offline installer.
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide) For great and detailed guides.
+- [VNOHackintosh](https://facebook.com/VNOHackintosh) Support group for installation and post installation.
